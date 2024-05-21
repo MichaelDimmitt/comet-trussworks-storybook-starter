@@ -1,5 +1,8 @@
-@import 'commet-example-site/lib/uswds.css';
-@import 'commet-example-site/lib/index.css';
+/* @import 'commet-example-site/lib/uswds.css';
+@import 'commet-example-site/lib/index.css'; */
+@import '@trussworks/react-uswds/lib/uswds.css';
+@import '@trussworks/react-uswds/lib/index.css';
+
 #root {
   max-width: 1280px;
   margin: 0 auto;

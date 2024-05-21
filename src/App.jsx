@@ -2,8 +2,8 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
-import { Alert } from 'commet-example-site'
-// import { Alert } from '@trussworks/react-uswds'
+// import { Alert } from 'commet-example-site'
+import { Alert } from '@trussworks/react-uswds'
 
 
 function App() {
