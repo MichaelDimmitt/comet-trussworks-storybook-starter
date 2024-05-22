@@ -1,3 +1,8 @@
+# Install:
+1. nvm use 18;
+2. yarn install;
+3. yarn run dev;
+
 # Todo Items:
 1. add react router
 2. build pages.
