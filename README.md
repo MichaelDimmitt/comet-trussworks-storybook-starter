@@ -1,3 +1,8 @@
+Link to the storybook - https://trussworks.github.io/react-uswds/?path=/docs/welcome--docs  
+Link to the github - https://github.com/trussworks/react-uswds  
+Note, this is not the one we are using: figma link.  https://www.figma.com/community/file/836611771720754351
+Link to writeup on USWDS - https://gist.github.com/MichaelDimmitt/2ade952c70efcb16c95599396e86bfc4  
+
 # Install:
 1. nvm use 18;
 2. yarn install;
