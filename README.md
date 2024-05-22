@@ -1,3 +1,12 @@
+# Todo Items:
+1. add react router
+2. build pages.
+3. network request pattern, possibly just useEffect({makeRequest}, []) + useCallback -  see link:  https://stackoverflow.com/a/53572588/5283424
+4. folder structure: src/pages, src/utils, src/hooks, 
+5. forms 
+6. we should resist making new components, for speed. but if needed will eventually make it into a new storybook that we npm publish. which I can do on thursday pretty quickly.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
